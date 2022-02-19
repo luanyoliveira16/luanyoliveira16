@@ -1,4 +1,4 @@
-###  Olá! Eu sou a Luany, crio conteúdo para internet, sou filósofa e programadora.
+###  I'm Luany. 
 
 <!--
 **luanyoliveira16/luanyoliveira16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
